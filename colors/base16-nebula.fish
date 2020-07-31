@@ -1,3 +1,5 @@
+# Nebula by Gabriel Fontes (https://github.com/Misterio77)
+
 set -g fish_color_autosuggestion 6e6f72
 set -g fish_color_cancel -r
 set -g fish_color_command 6562a8
@@ -23,3 +25,4 @@ set -g fish_pager_color_completion normal
 set -g fish_pager_color_description B3A06D yellow
 set -g fish_pager_color_prefix white --bold --underline
 set -g fish_pager_color_progress brwhite --background=cyan
+

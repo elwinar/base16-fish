@@ -1,3 +1,5 @@
+# Dracula by Mike Barkmin (http://github.com/mikebarkmin) based on Dracula Theme (http://github.com/dracula)
+
 set -g fish_color_autosuggestion 626483
 set -g fish_color_cancel -r
 set -g fish_color_command ebff87
@@ -23,3 +25,4 @@ set -g fish_pager_color_completion normal
 set -g fish_pager_color_description B3A06D yellow
 set -g fish_pager_color_prefix white --bold --underline
 set -g fish_pager_color_progress brwhite --background=cyan
+

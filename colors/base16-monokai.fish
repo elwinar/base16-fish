@@ -1,3 +1,5 @@
+# Monokai by Wimer Hazenberg (http://www.monokai.nl)
+
 set -g fish_color_autosuggestion 75715e
 set -g fish_color_cancel -r
 set -g fish_color_command a6e22e
@@ -23,3 +25,4 @@ set -g fish_pager_color_completion normal
 set -g fish_pager_color_description B3A06D yellow
 set -g fish_pager_color_prefix white --bold --underline
 set -g fish_pager_color_progress brwhite --background=cyan
+

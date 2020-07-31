@@ -1,3 +1,5 @@
+# Brogrammer by Vik Ramanujam (http://github.com/piggyslasher)
+
 set -g fish_color_autosuggestion ecba0f
 set -g fish_color_cancel -r
 set -g fish_color_command f3bd09
@@ -23,3 +25,4 @@ set -g fish_pager_color_completion normal
 set -g fish_pager_color_description B3A06D yellow
 set -g fish_pager_color_prefix white --bold --underline
 set -g fish_pager_color_progress brwhite --background=cyan
+

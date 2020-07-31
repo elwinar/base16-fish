@@ -1,3 +1,5 @@
+# Nova by George Essig (https://github.com/gessig), Trevor D. Miller (https://trevordmiller.com)
+
 set -g fish_color_autosuggestion 899ba6
 set -g fish_color_cancel -r
 set -g fish_color_command 7fc1ca
@@ -23,3 +25,4 @@ set -g fish_pager_color_completion normal
 set -g fish_pager_color_description B3A06D yellow
 set -g fish_pager_color_prefix white --bold --underline
 set -g fish_pager_color_progress brwhite --background=cyan
+

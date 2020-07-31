@@ -1,3 +1,5 @@
+# Harmonic16 Light by Jannik Siebert (https://github.com/janniks)
+
 set -g fish_color_autosuggestion aabcce
 set -g fish_color_cancel -r
 set -g fish_color_command 56bf8b
@@ -23,3 +25,4 @@ set -g fish_pager_color_completion normal
 set -g fish_pager_color_description B3A06D yellow
 set -g fish_pager_color_prefix white --bold --underline
 set -g fish_pager_color_progress brwhite --background=cyan
+

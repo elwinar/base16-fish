@@ -1,3 +1,5 @@
+# Rebecca by Victor Borja (http://github.com/vic) based on Rebecca Theme (http://github.com/vic/rebecca-theme)
+
 set -g fish_color_autosuggestion 666699
 set -g fish_color_cancel -r
 set -g fish_color_command 6dfedf
@@ -23,3 +25,4 @@ set -g fish_pager_color_completion normal
 set -g fish_pager_color_description B3A06D yellow
 set -g fish_pager_color_prefix white --bold --underline
 set -g fish_pager_color_progress brwhite --background=cyan
+

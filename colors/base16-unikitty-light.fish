@@ -1,3 +1,5 @@
+# Unikitty Light by Josh W Lewis (@joshwlewis)
+
 set -g fish_color_autosuggestion a7a5a8
 set -g fish_color_cancel -r
 set -g fish_color_command 17ad98
@@ -23,3 +25,4 @@ set -g fish_pager_color_completion normal
 set -g fish_pager_color_description B3A06D yellow
 set -g fish_pager_color_prefix white --bold --underline
 set -g fish_pager_color_progress brwhite --background=cyan
+
